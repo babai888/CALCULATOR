@@ -1,3 +1,5 @@
+// ТЕСТОВОЕ ЗАДАНИЕ Задача: "Калькулятор" для поступления на проект Java Mentor
+
 package com.babai;
 
 import java.util.Scanner;
